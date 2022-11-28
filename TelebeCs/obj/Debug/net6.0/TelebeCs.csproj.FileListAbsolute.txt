@@ -1,0 +1,15 @@
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\obj\Debug\net6.0\TelebeCs.csproj.AssemblyReference.cache
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\obj\Debug\net6.0\TelebeCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\obj\Debug\net6.0\TelebeCs.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\obj\Debug\net6.0\TelebeCs.AssemblyInfo.cs
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\obj\Debug\net6.0\TelebeCs.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\bin\Debug\net6.0\TelebeCs.exe
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\bin\Debug\net6.0\TelebeCs.deps.json
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\bin\Debug\net6.0\TelebeCs.runtimeconfig.json
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\bin\Debug\net6.0\TelebeCs.dll
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\bin\Debug\net6.0\TelebeCs.pdb
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\obj\Debug\net6.0\TelebeCs.dll
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\obj\Debug\net6.0\refint\TelebeCs.dll
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\obj\Debug\net6.0\TelebeCs.pdb
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\obj\Debug\net6.0\TelebeCs.genruntimeconfig.cache
+C:\Users\Mehemmed\source\repos\TelebeCs\TelebeCs\obj\Debug\net6.0\ref\TelebeCs.dll
